@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: /assets/img/12.jpg
+title: White Blood Cell Detection
+description: Detecting white blood cells on blood smear slides
+img: /assets/img/wbc.jpg
 importance: 1
-category: work
+category: machine learning
 ---
 
 Every project has a beautiful feature showcase page.
@@ -16,7 +16,7 @@ To give your project a background in the portfolio page, just add the img tag to
     ---
     layout: page
     title: project
-    description: a project with a background image
+    description: White Blood Cell Detection
     img: /assets/img/12.jpg
     ---
 

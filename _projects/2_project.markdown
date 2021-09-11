@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: /assets/img/3.jpg
+title: Violence on Twitter
+description: Detecting violent Tweets by natural language processing
+img: /assets/img/twitter_violence.png
 importance: 2
-category: work
+category: machine learning
 ---
 
 Every project has a beautiful feature showcase page.
@@ -17,7 +17,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/12.jpg
+    img: /assets/img/Twitter_overview.png
     ---
 
 <div class="row">
